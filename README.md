@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y7aii4oju5cyviw9?svg=true)](https://ci.appveyor.com/project/Serg5858/apione-fmlaa)
